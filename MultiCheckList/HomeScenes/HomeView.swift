@@ -81,7 +81,6 @@ extension HomeView {
             }
             Text("컬러 :")
         }
-//        .frame(height: 100)
     }
     
     var lottieAnimationView: some View {
